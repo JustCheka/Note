@@ -1,14 +1,6 @@
 import datetime
 import csv
 
-# class Create(object):
-
-
-#     def create(self):
-#         print("something")
-
-# createNote = Create()
-# createNote.create()
 
 class CreateNotes():
 
